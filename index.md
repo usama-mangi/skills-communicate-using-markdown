@@ -8,4 +8,4 @@
 - List created
 - Added another item to the list
 
-Explore headings in markdown
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
